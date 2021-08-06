@@ -1,62 +1,63 @@
 {
-  "basics": {
-    "name": "Priyankar Nigam",
-    "label": "Student",
-    "picture": "https://avatars.githubusercontent.com/u/82797160?s=400&u=1dde4175e1944c5e7c61ed53d9e4629b0b9e38ec&v=4",
-    "email": "2020kucp1131@iiitkota.ac.in",
-    "phone": "+918909504028",
-    "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
-    "location": {
-      "address": "Agra",
-      "postalCode": "282002",
-      "city": "Agra",
-      "countryCode": "India",
-      "region": "Uttar Pradesh"
+    "basics": {
+      "name": "Priyankar Nigam",
+      "label": "Student",
+      "picture": "https://avatars.githubusercontent.com/u/82797160?s=400&u=1dde4175e1944c5e7c61ed53d9e4629b0b9e38ec&v=4",
+      "email": "2020kucp1131@iiitkota.ac.in",
+      "phone": "+918909504028",
+      "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+      "location": {
+        "address": "Agra",
+        "postalCode": "282002",
+        "city": "Agra",
+        "countryCode": "India",
+        "region": "Uttar Pradesh"
+      },
+      "profiles": [
+        {
+          "network": "Github",
+          "username": "Priyankar Nigam",
+          "url": "https://github.com/friday006/"
+        },
+        {
+          "network": "linkedin",
+          "username": "Priyankar Nigam",
+          "url": "https://www.linkedin.com/in/priyankar-nigam-44b092219/"
+        },
+        {
+          "network": "Instagram",
+          "username": "friday_006",
+          "url": "https://www.instagram.com/friday_006/"
+        }
+      ]
     },
-    "profiles": [
+    "education": [
       {
-        "network": "Github",
-        "username": "Priyankar Nigam",
-        "url": "https://github.com/friday006/"
-      },
-      {
-        "network": "linkedin",
-        "username": "Priyankar Nigam",
-        "url": "https://www.linkedin.com/in/priyankar-nigam-44b092219/"
-      },
-      {
-        "network": "Instagram",
-        "username": "friday_006",
-        "url": "https://www.instagram.com/friday_006/"
+        "institution": "Indian Institute of Information technology,kota",
+        "area": "Engineering",
+        "studyType": "Bachelor of Technology",
+        "courses": ["Computer Science & Engineering"]
       }
-    ]
-  },
-  "education": [
-    {
-      "institution": "Indian Institute of Information technology,kota",
-      "area": "Engineering",
-      "studyType": "Bachelor of Technology",
-      "courses": ["Computer Science & Engineering"]
-    }
-  ],
-  "skills": [
-    {
-      "level": "Beginner",
-      "keywords": ["HTML", "CSS", "Javascript", "C/C++", "Java"]
-    }
-  ],
-  "interests": [
-    {
-      "name": "Sports",
-      "keywords": ["Chess", "Badminton", "Cycling"]
-    },
-    {
-      "name": "Drawing",
-      "keywords": ["Sketching", "Doodling", "Calligraphy"]
-    },
-    {
-        "name":"Photography"
-    }
-  ],
-  "references": []
-}
+    ],
+    "skills": [
+      {
+        "level": "Beginner",
+        "keywords": ["HTML", "CSS", "Javascript", "C/C++", "Java"]
+      }
+    ],
+    "interests": [
+      {
+        "name": "Sports",
+        "keywords": ["Chess", "Badminton", "Cycling"]
+      },
+      {
+        "name": "Drawing",
+        "keywords": ["Sketching", "Doodling", "Calligraphy"]
+      },
+      {
+          "name":"Photography",
+          "keywords": ["Photography"]
+      }
+    ],
+    "references": []
+  }
